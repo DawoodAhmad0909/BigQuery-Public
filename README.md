@@ -3,20 +3,20 @@
 #### Database name:BQP_db
 This project involves designing and querying a relational database for an e-commerce platform named BQP_db. The database includes core entities such as Categories, Products, Customers, Orders, and Order_items. These interconnected tables store data about products and their categories, customer information, and order transactions, forming a comprehensive backend for an online store.
 ## Objectives 
-1. Database Design:
-### Define normalized tables for various components of the e-commerce domain.
+### 1. Database Design:
+Define normalized tables for various components of the e-commerce domain.
 Implement relationships using primary and foreign keys.
 ### 2. Data Insertion:
 Populate each table with representative sample data for testing and analysis.
 ### 3. Data Retrieval and Analysis:
 Execute SQL queries to:
-•Retrieve product listings with pricing.
-•Display customer details and their order history.
-•Explore category hierarchies (e.g., subcategories).
-•Analyze product inventory and sales.
-•Identify top-performing products and high-spending customers.
-•Detect inactive customers and order trends.
-•Calculate total revenue and category-wise contributions.
+###### •Retrieve product listings with pricing.
+###### •Display customer details and their order history.
+###### •Explore category hierarchies (e.g., subcategories).
+###### •Analyze product inventory and sales.
+###### •Identify top-performing products and high-spending customers.
+###### •Detect inactive customers and order trends.
+###### •Calculate total revenue and category-wise contributions.
 ## Database Creation
 ```sql
 CREATE DATABASE BQP_db;
