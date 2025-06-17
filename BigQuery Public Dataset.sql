@@ -35,7 +35,7 @@ SELECT * FROM Products ;
 INSERT INTO Products VALUES
 	(1, 'iPhone 15 Pro', 'Latest Apple smartphone with A17 Pro chip', 999.00, 50, 4),
 	(2, 'Samsung Galaxy S23', 'Android flagship with 200MP camera', 799.99, 75, 4),
-	(3, 'MacBook Pro 14"', 'Apple laptop with M2 Pro chip', 1999.00, 30, 5),
+	(3, 'MacBook Pro 14', 'Apple laptop with M2 Pro chip', 1999.00, 30, 5),
 	(4, 'Dell XPS 15', 'Premium Windows laptop with OLED display', 1499.99, 40, 5),
 	(5, 'Men\'s Casual Shirt', '100% cotton slim fit shirt', 29.99, 200, 6),
 	(6, 'Women\'s Summer Dress', 'Lightweight floral print dress', 39.99, 150, 7),
