@@ -1,0 +1,3 @@
+Cutomer_Name,order_id,customer_id,order_date,total_amount,status
+"John Smith",1,1,"2023-10-15 09:30:00",999.00,delivered
+"John Smith",4,1,"2023-10-18 16:20:00",129.99,pending

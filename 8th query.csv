@@ -1,0 +1,4 @@
+product_id,product_name,description,price,stock_quantity,category_id
+7,"Non-Stick Cookware Set","10-piece ceramic non-stick set",89.99,80,8
+9,"Smart Watch","Fitness tracking with heart rate monitor",129.99,90,1
+10,"Jeans - Classic Fit","Men's denim jeans with stretch",59.99,180,6

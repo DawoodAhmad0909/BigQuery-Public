@@ -1,0 +1,2 @@
+customer_id,first_name,last_name,email,phone,address,Total_Orders
+5,David,Wilson,david.w@example.com,555-0105,"654 Maple Ln, Everywhere, USA",NULL

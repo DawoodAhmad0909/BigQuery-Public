@@ -1,0 +1,3 @@
+product_id,product_name,description,price,stock_quantity,category_id,category_name
+8,"Wireless Earbuds","Bluetooth 5.2 with 20hr battery",49.99,120,1,Electronics
+9,"Smart Watch","Fitness tracking with heart rate monitor",129.99,90,1,Electronics
