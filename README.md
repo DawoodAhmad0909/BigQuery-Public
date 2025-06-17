@@ -10,13 +10,13 @@ Implement relationships using primary and foreign keys.
 Populate each table with representative sample data for testing and analysis.
 ### 3. Data Retrieval and Analysis:
 Execute SQL queries to:
-###### •Retrieve product listings with pricing.
-###### •Display customer details and their order history.
-###### •Explore category hierarchies (e.g., subcategories).
-###### •Analyze product inventory and sales.
-###### •Identify top-performing products and high-spending customers.
-###### •Detect inactive customers and order trends.
-###### •Calculate total revenue and category-wise contributions.
+##### •Retrieve product listings with pricing.
+##### •Display customer details and their order history.
+##### •Explore category hierarchies (e.g., subcategories).
+##### •Analyze product inventory and sales.
+##### •Identify top-performing products and high-spending customers.
+##### •Detect inactive customers and order trends.
+##### •Calculate total revenue and category-wise contributions.
 ## Database Creation
 ```sql
 CREATE DATABASE BQP_db;
