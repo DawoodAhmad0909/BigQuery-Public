@@ -1,7 +1,6 @@
-product_id,product_name,description,price,stock_quantity,category_id
-1,"iPhone 15 Pro","Latest Apple smartphone with A17 Pro chip",999.00,50,4
-2,"Samsung Galaxy S23","Android flagship with 200MP camera",799.99,75,4
-3,"MacBook Pro 14"","Apple laptop with M2 Pro chip",1999.00,30,5
-4,"Dell XPS 15","Premium Windows laptop with OLED display",1499.99,40,5
-7,"Non-Stick Cookware Set","10-piece ceramic non-stick set",89.99,80,8
-9,"Smart Watch","Fitness tracking with heart rate monitor",129.99,90,1
+customer_id,Customer_name,email
+1,"John Smith",john.smith@example.com
+2,"Sarah Johnson",sarah.j@example.com
+3,"Michael Brown",michael.b@example.com
+4,"Emily Davis",emily.d@example.com
+5,"David Wilson",david.w@example.com
